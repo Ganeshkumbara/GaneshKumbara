@@ -21,14 +21,13 @@
 ![Sklearn](https://img.shields.io/badge/-Scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;\
-![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)&nbsp;\
+![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)&nbsp;
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=Amazon-S3)&nbsp;\
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-333333?style=flat&logo=Amazon-EC2)&nbsp;\
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=AWS-Lambda)&nbsp;\
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=Amazon-S3)&nbsp;
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-333333?style=flat&logo=Amazon-EC2)&nbsp;
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=AWS-Lambda)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)&nbsp;\
