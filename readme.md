@@ -1,15 +1,15 @@
-## 👋 &nbsp;Hey there! I'm Udit Manav
+## 👋 &nbsp;Hey there! I'm Ganesh S
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 🤖 &nbsp;Likes to do data analysis, visualization and building ML/DL models.\
-🎓 &nbsp;Graduated with Masters in Computer Science (Data Analytics) from National Institute of Technology, Delhi in May 2019.\
+🚀 &nbsp; Mechanical Engineering graduate turned Software Engineer, building smart solutions through passion‑driven coding and continuous learning..\
 🌱 &nbsp;Currently learning about System Design for Machine Learning Systems and Cloud Platforms.\
 ✍️ &nbsp;In my free time, I read books, tech blogs, explore new tech or go for long walks.\
 💬 &nbsp;Feel free to reach out if you want to work together, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at ganesh700511@gmail.com!\
 📄 &nbsp;Feel free to have a look at my [Résumé](https://raw.githubusercontent.com/Ganeshkumbara/Ganeshkumbara/master/assets/Resume.pdf) to know more about me.\
-👨‍💻 &nbsp;Find me solving problems at [Leetcode](https://leetcode.com/Ganeshkumbara/).
+👨‍💻 &nbsp;Find me solving problems at [Leetcode](https://leetcode.com/u/Ganesh_Kumbara/).
 
 <img alt="Coding" src="https://raw.githubusercontent.com/Ganeshkumbara/Ganeshkumbara/master/assets/Coding.gif" align="right" width="300" height="180"/>
 
@@ -21,17 +21,17 @@
 ![Sklearn](https://img.shields.io/badge/-Scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;\
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=Streamlit)&nbsp;
-![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=Plotly)&nbsp;\
+![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)&nbsp;\
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-333333?style=flat&logo=Amazon-S3)&nbsp;\
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-333333?style=flat&logo=Amazon-EC2)&nbsp;\
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=AWS-Lambda)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)&nbsp;\
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)&nbsp;
-![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
