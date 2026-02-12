@@ -3,7 +3,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🤖 &nbsp;Likes to do data analysis, visualization and building ML/DL models.\
-🚀 &nbsp; Mechanical Engineering graduate turned Software Engineer, building smart solutions through passion‑driven coding and continuous learning..\
+🚀 &nbsp; Mechanical Engineering graduate turned Software Engineer, building smart solutions through passion‑driven coding and\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;continuous learning..\
 🌱 &nbsp;Currently learning about System Design for Machine Learning Systems and Cloud Platforms.\
 ✍️ &nbsp;In my free time, I read books, tech blogs, explore new tech or go for long walks.\
 💬 &nbsp;Feel free to reach out if you want to work together, or just for some interesting discussion.\
